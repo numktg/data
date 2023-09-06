@@ -1,4 +1,4 @@
-## Data Description
+# Data Description
 
 - The email data set contains user level data from a transportation company.
 - The company ran a marketing campaign to encourage users to upgrade their tickets.
